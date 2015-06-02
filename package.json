@@ -1,0 +1,16 @@
+{
+  "name": "aceserve",
+  "version": "1.0.0",
+  "description": "An HTTP server for rapid development.",
+  "author": "Ace Eddleman <ace.github@gmail.com>",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/acecodes/aceserve"
+  },
+  "dependencies": {
+    "connect": "3.3.x",
+    "serve-static": "1.9.x",
+    "hotnode": "0.0.8"
+  }
+}
